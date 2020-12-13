@@ -1,1 +1,2 @@
-# Hello this is just for start learning thanks for reading🙌
+# This repository is for the quera Python course
+# I'm happy to look and give a star😊🙌
